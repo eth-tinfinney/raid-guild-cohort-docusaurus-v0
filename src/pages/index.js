@@ -11,7 +11,7 @@ export default function Home() {
   const { siteConfig } = useDocusaurusContext();
   return (
     <Layout
-      title={`Hello from ${siteConfig.title}`}
+      title={`${siteConfig.title}`}
       description='Description will go into a meta tag in <head />'
     >
       <Header title={siteConfig.title} tagline={siteConfig.tagline}>
@@ -21,7 +21,7 @@ export default function Home() {
             className={clsx("button button--lg", styles.buttonRgCTA)}
             to='/docs/intro'
           >
-            Docusaurus Tutorial - 5min ⏱️
+            Onboarding a New Member into the DAO - 5min ⏱️
           </Link>
         </div>
       </Header>

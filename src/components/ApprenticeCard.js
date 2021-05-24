@@ -62,12 +62,12 @@ const ApprenticeCard = ({
           }}
         >
           {siteUrl ? (
-            <a href={siteUrl}>
+            <a href={siteUrl}  target="_blank">
               <GiBroadsword />
             </a>
           ) : null}
           {twitterHandle ? (
-            <a href={`https://twitter.com/${twitterHandle}`}>
+            <a href={`https://twitter.com/${twitterHandle}`}  target="_blank">
               <GiBirdTwitter />
             </a>
           ) : null}

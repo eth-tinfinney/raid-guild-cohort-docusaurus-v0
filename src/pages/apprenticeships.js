@@ -14,10 +14,7 @@ export default function ApprenticeshipPage() {
     >
       <Header title={siteConfig.title} tagline='Apprenticeships'></Header>
       <main>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores vitae
-        provident reiciendis expedita est suscipit illum culpa labore quae.
-        Tempore dolorem nam architecto obcaecati doloremque! Natus amet dolor
-        aperiam facere?
+      RaidGuild is a premier design and development agency of the Web3 ecosystem. Entrenched in decentralized autonomous organizations (DAOs), finance (DeFi), software applications (dApps). The Season 1 team consists of a diverse group of talented individuals with a wide ranges of skills and experience.
       </main>
     </Layout>
   );

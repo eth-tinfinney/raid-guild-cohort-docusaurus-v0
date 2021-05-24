@@ -41,11 +41,11 @@ const ApprenticeGrid = () => {
       twitterHandle: "earth2travis",
     },
     {
-      name: "earth2travis",
+      name: "tenfinney",
       techRoles: [],
-      nonTechRoles: ["Cleric", "Monk"],
-      siteUrl: "https://github.com/earth2travis",
-      twitterHandle: "earth2travis",
+      nonTechRoles: ["Archer", "Warrior", "Wizard"],
+      siteUrl: "https://github.com/tenfinney",
+      twitterHandle: "tenfinney",
     },
   ];
 

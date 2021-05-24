@@ -1,4 +1,4 @@
-export const asdf = [
+export const apprenticeRoles = [
   {
     name: "jonathan_p",
     techRoles: ["Warrior, Paladin"],
@@ -8,5 +8,10 @@ export const asdf = [
     name: "earth2travis",
     techRoles: [""],
     nonTechRoles: ["Cleric, Monk"],
+  },
+  {
+    name: "tenfinney",
+    techRoles: ["Warrior, Archer, Wizard"],
+    nonTechRoles: ["Rogue, Monk"],
   },
 ];

@@ -2,9 +2,9 @@ import React from "react";
 import Layout from "@theme/Layout";
 import ApprenticeGrid from "../../components/ApprenticeGrid";
 
-function Projects() {
+function Web3Skills() {
   return (
-    <Layout title='Projects'>
+    <Layout title='Web3 Skills'>
       <div
         style={{
           display: "flex",
@@ -15,7 +15,7 @@ function Projects() {
         }}
       >
         <p>
-          RaidGuild Season 1 Projects
+          RaidGuild Season 1 Web3 Skills
         </p>
         <div
           style={{
@@ -30,4 +30,4 @@ function Projects() {
   );
 }
 
-export default Projects;
+export default Web3Skills;

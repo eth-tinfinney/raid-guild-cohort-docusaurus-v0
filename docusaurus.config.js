@@ -1,6 +1,6 @@
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
-  title: "Season 1",
+  title: "RaidGuild Season 1",
   tagline: "Slaying Web3 Product Demons",
   url: "https://bafybeieqwggeehqd6croo6mwafxc75zpeaq4h2vrzylkoitrtoqo6pyjai.ipfs.infura-ipfs.io/",
   baseUrl: "/",
@@ -15,7 +15,7 @@ module.exports = {
       "orbitAddress": "",
     },
     navbar: {
-      title: "Season 1",
+      title: "RaidGuild Season 1",
       logo: {
         alt: "Crossed Swords",
         src: "img/logo.svg",
@@ -23,6 +23,8 @@ module.exports = {
       items: [
         { to: "/apprentices", label: "Apprentices", position: "left" },
         { to: "/projects", label: "Projects", position: "left" },
+        { to: "/memes", label: "Memes", position: "left" },
+        { to: "/web3skills", label: "Web3 Skills", position: "left" },
         { to: "/blog", label: "Blog", position: "right" },
       ],
     },
